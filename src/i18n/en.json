@@ -1,0 +1,60 @@
+{
+  "about": {
+    "greeting": "Hello, I'm",
+    "bio": [
+      "I'm a full-stack developer at <sudalys>Sudalys</sudalys>, where I create and maintain web and mobile applications and manage the CI/CD pipelines for web apps.",
+      "I'm passionate about clean architecture, learning, developer experience, and turning complex problems into elegant solutions."
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Where I've worked and what I've built.",
+    "items": [
+      {
+        "role": "Senior Full-Stack Developer",
+        "company": "Company Name",
+        "period": "2023 — Present",
+        "description":[ "GIS Infrastructure Development: Developed a Geographic Information System (GIS) based on the GR@CE THD standard, optimizing the management and deployment of fiber optic networks.",
+      "Cross-Platform Network Management: Designed and implemented a responsive web and mobile application to streamline real-time network monitoring and administration.",
+      "Authentication & Security: Architected and deployed a centralized SSO (Single Sign-On) system, ensuring seamless and secure access across the entire company software ecosystem."
+        ]},
+      {
+        "role": "Full-Stack Developer",
+        "company": "Previous Company",
+        "period": "2021 — 2023",
+        "description": "Built internal tooling and REST APIs. Migrated legacy jQuery codebase to React, improving performance by 40%."
+      },
+      {
+        "role": "Junior Developer",
+        "company": "First Company",
+        "period": "2019 — 2021",
+        "description": "Developed features across the full stack. Participated in code reviews and agile ceremonies."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of things I've built.",
+    "items": [
+      {
+        "title": "Project Alpha",
+        "description": "A real-time collaborative dashboard built with WebSockets and React."
+      },
+      {
+        "title": "Project Beta",
+        "description": "E-commerce platform with Stripe integration and inventory management."
+      },
+      {
+        "title": "Project Gamma",
+        "description": "CLI tool that scaffolds full-stack apps with opinionated defaults."
+      },
+      {
+        "title": "Project Delta",
+        "description": "Open-source component library with Storybook documentation."
+      }
+    ]
+  },
+  "footer": {
+    "builtWith": "Built with React & Tailwind"
+  }
+}

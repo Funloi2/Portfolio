@@ -1,0 +1,58 @@
+{
+  "about": {
+    "greeting": "Bonjour, je suis",
+    "bio": [
+      "Je suis développeur full-stack chez <sudalys>Sudalys</sudalys>, où je crée et maintiens des applications web et mobiles et gère les pipelines CI/CD des applications web.",
+      "Je suis passionné par l'architecture logicielle propre, l'expérience développeur et la transformation de problèmes complexes en solutions élégantes."
+    ]
+  },
+  "experience": {
+    "title": "Expérience",
+    "subtitle": "Où j'ai travaillé et ce que j'ai construit.",
+    "items": [
+      {
+        "role": "Développeur Full-Stack Junior",
+        "company": "Sudalys",
+        "period": "2023 — Présent",
+        "description": "Dévelopment Et"
+      },
+      {
+        "role": "Développeur Full-Stack",
+        "company": "Previous Company",
+        "period": "2021 — 2023",
+        "description": "Développement d'outils internes et d'APIs REST. Migration d'une base jQuery vers React, améliorant les performances de 40%."
+      },
+      {
+        "role": "Développeur Junior",
+        "company": "First Company",
+        "period": "2019 — 2021",
+        "description": "Développement de fonctionnalités sur l'ensemble de la stack. Participation aux revues de code et aux cérémonies agiles."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Une sélection de ce que j'ai construit.",
+    "items": [
+      {
+        "title": "Project Alpha",
+        "description": "Un tableau de bord collaboratif en temps réel construit avec WebSockets et React."
+      },
+      {
+        "title": "Project Beta",
+        "description": "Plateforme e-commerce avec intégration Stripe et gestion des stocks."
+      },
+      {
+        "title": "Project Gamma",
+        "description": "Outil CLI qui génère des applications full-stack avec des configurations prédéfinies."
+      },
+      {
+        "title": "Project Delta",
+        "description": "Bibliothèque de composants open-source avec documentation Storybook."
+      }
+    ]
+  },
+  "footer": {
+    "builtWith": "Construit avec React & Tailwind"
+  }
+}
