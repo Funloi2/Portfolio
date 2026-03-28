@@ -2,8 +2,8 @@
   "about": {
     "greeting": "Bonjour, je suis",
     "bio": [
-      "Je suis développeur full-stack chez <sudalys>Sudalys</sudalys>, où je crée et maintiens des applications web et mobiles et gère les pipelines CI/CD des applications web.",
-      "Je suis passionné par l'architecture logicielle propre, l'expérience développeur et la transformation de problèmes complexes en solutions élégantes."
+      "Je suis développeur full-stack et architecte logiciel chez <sudalys>Sudalys</sudalys>, où je crée et maintiens des applications web et mobiles, développe des systèmes SSO et gère les pipelines CI/CD.",
+      "Je suis passionné par l'architecture logicielle propre, l'expérience développeur et la transformation de problèmes complexes en solutions élégantes. J'aime aussi apprendre et essayer de nouvelles choses."
     ]
   },
   "experience": {
@@ -11,22 +11,28 @@
     "subtitle": "Où j'ai travaillé et ce que j'ai construit.",
     "items": [
       {
-        "role": "Développeur Full-Stack Junior",
-        "company": "Sudalys",
-        "period": "2023 — Présent",
-        "description": "Dévelopment Et"
+        "role": "Développeur Web",
+        "company": "Sudalys Services",
+        "period": "Sep 2024 — Présent",
+        "description": "Développement d'applications web en PHP Symfony et d'applications mobiles en Flutter. Conception d'un système d'authentification unique (SSO) et gestion des workflows DevOps et des pipelines CI/CD."
       },
       {
-        "role": "Développeur Full-Stack",
-        "company": "Previous Company",
-        "period": "2021 — 2023",
-        "description": "Développement d'outils internes et d'APIs REST. Migration d'une base jQuery vers React, améliorant les performances de 40%."
+        "role": "Développeur Web",
+        "company": "CEFE",
+        "period": "Avr 2024 — Août 2024",
+        "description": "Développement d'applications web en PHP Symfony. Gestion des tâches DevOps incluant l'automatisation des déploiements et la gestion des environnements."
       },
       {
-        "role": "Développeur Junior",
-        "company": "First Company",
-        "period": "2019 — 2021",
-        "description": "Développement de fonctionnalités sur l'ensemble de la stack. Participation aux revues de code et aux cérémonies agiles."
+        "role": "Développeur Web",
+        "company": "SAIM Ltd",
+        "period": "Jan 2023 — Mar 2024",
+        "description": "Conception et maintenance d'applications web en C# et ASP.NET sur deux missions, contribuant aux nouvelles fonctionnalités et à l'amélioration du code existant."
+      },
+      {
+        "role": "Développeur Web",
+        "company": "Baker Tilly",
+        "period": "Juin 2022 — Déc 2022",
+        "description": "Développement de solutions web en PHP Symfony pour la logique backend et Angular pour l'interface front-end."
       }
     ]
   },
@@ -35,20 +41,20 @@
     "subtitle": "Une sélection de ce que j'ai construit.",
     "items": [
       {
-        "title": "Project Alpha",
-        "description": "Un tableau de bord collaboratif en temps réel construit avec WebSockets et React."
+        "title": "RH-Proo",
+        "description": "Une plateforme de gestion RH avec un frontend Svelte et un backend TypeScript, conteneurisée avec Docker."
       },
       {
-        "title": "Project Beta",
-        "description": "Plateforme e-commerce avec intégration Stripe et gestion des stocks."
+        "title": "Observatoire des Saisons",
+        "description": "Programme qui permet aux citoyens et citoyennes de tout âge de contribuer à la recherche scientifique sur le changement climatique."
       },
       {
-        "title": "Project Gamma",
-        "description": "Outil CLI qui génère des applications full-stack avec des configurations prédéfinies."
+        "title": "Valentine's Surprise",
+        "description": "Une application très simple qui pose une question très importante"
       },
       {
-        "title": "Project Delta",
-        "description": "Bibliothèque de composants open-source avec documentation Storybook."
+        "title": "RPG Platformer",
+        "description": "Un jeu de plateforme RPG 2D en die-and-retry développé en Java, avec un système de niveaux, de compétences, d'équipement et de combats de boss."
       }
     ]
   },

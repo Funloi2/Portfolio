@@ -10,37 +10,38 @@ export interface Project {
 }
 
 export const about = {
-    name: "Charles-Edouard MARGUERITE",
-    title: "Dev Full Stack",
+    name: "Charles-Edouard Marguerite",
+    title: "Software Architect",
     photo: "/profile.jpg",
 };
 
-export const experiencesMeta: Experience[] = [
-    { technologies: ["React", "TypeScript", "Node.js", "PostgreSQL", "AWS"] },
-    { technologies: ["React", "Python", "Django", "Docker"] },
-    { technologies: ["JavaScript", "Express", "MongoDB", "CSS"] },
+export const experiencesMeta = [
+    { technologies: ["PHP", "Symfony", "Flutter", "Docker", "CI/CD"] },
+    { technologies: ["PHP", "Symfony", "Docker", "CI/CD"] },
+    { technologies: ["C#", "ASP.NET"] },
+    { technologies: ["C#", "ASP.NET"] },
+    { technologies: ["PHP", "Symfony", "Angular"] },
 ];
 
-export const projectsMeta: Project[] = [
+export const projectsMeta = [
     {
-        technologies: ["React", "Socket.io", "Node.js", "Redis"],
-        liveUrl: "https://example.com",
-        repoUrl: "https://github.com/yourusername/project-alpha",
+        technologies: ["TypeScript", "Svelte", "Docker"],
+        repoUrl: "https://github.com/Funloi2/RH-Proo",
     },
     {
-        technologies: ["Next.js", "Prisma", "PostgreSQL", "Stripe"],
-        repoUrl: "https://github.com/yourusername/project-beta",
+        technologies: ["PHP", "Symfony", "Docker", "CI/CD"],
+        repoUrl: "https://github.com/Funloi2/obs-saisons.fr",
     },
     {
-        technologies: ["TypeScript", "Node.js", "Commander.js"],
-        repoUrl: "https://github.com/yourusername/project-gamma",
+        technologies: ["Java", "JavaFX", "Maven"],
+        repoUrl: "https://github.com/Funloi2/Valentine-project",
     },
     {
-        technologies: ["React", "Tailwind", "Storybook", "Vitest"],
-        liveUrl: "https://example.com",
-        repoUrl: "https://github.com/yourusername/project-delta",
+        technologies: ["Java"],
+        repoUrl: "https://github.com/Funloi2/RPG_Platformer",
     },
 ];
+
 
 export const socials = {
     github: "https://github.com/yourusername",

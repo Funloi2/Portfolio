@@ -2,8 +2,8 @@
   "about": {
     "greeting": "Hello, I'm",
     "bio": [
-      "I'm a full-stack developer at <sudalys>Sudalys</sudalys>, where I create and maintain web and mobile applications and manage the CI/CD pipelines for web apps.",
-      "I'm passionate about clean architecture, learning, developer experience, and turning complex problems into elegant solutions."
+      "I'm a full-stack developer and software architect at <sudalys>Sudalys</sudalys>, where I build and maintain web and mobile applications, develop SSO systems, and manage CI/CD pipelines.",
+      "I'm passionate about clean architecture, developer experience, and turning complex problems into elegant solutions. I also love to learn and try new things."
     ]
   },
   "experience": {
@@ -11,24 +11,28 @@
     "subtitle": "Where I've worked and what I've built.",
     "items": [
       {
-        "role": "Senior Full-Stack Developer",
-        "company": "Company Name",
-        "period": "2023 — Present",
-        "description":[ "GIS Infrastructure Development: Developed a Geographic Information System (GIS) based on the GR@CE THD standard, optimizing the management and deployment of fiber optic networks.",
-      "Cross-Platform Network Management: Designed and implemented a responsive web and mobile application to streamline real-time network monitoring and administration.",
-      "Authentication & Security: Architected and deployed a centralized SSO (Single Sign-On) system, ensuring seamless and secure access across the entire company software ecosystem."
-        ]},
-      {
-        "role": "Full-Stack Developer",
-        "company": "Previous Company",
-        "period": "2021 — 2023",
-        "description": "Built internal tooling and REST APIs. Migrated legacy jQuery codebase to React, improving performance by 40%."
+        "role": "Web Developer",
+        "company": "Sudalys Services",
+        "period": "Sep 2024 — Present",
+        "description": "Building web applications with PHP Symfony and mobile apps with Flutter. Developed a single sign-on system and managing DevOps workflows and CI/CD pipelines."
       },
       {
-        "role": "Junior Developer",
-        "company": "First Company",
-        "period": "2019 — 2021",
-        "description": "Developed features across the full stack. Participated in code reviews and agile ceremonies."
+        "role": "Web Developer",
+        "company": "CEFE",
+        "period": "Apr 2024 — Aug 2024",
+        "description": "Developed web applications using PHP Symfony. Handled DevOps tasks including deployment automation and environment management."
+      },
+      {
+        "role": "Web Developer",
+        "company": "SAIM Ltd",
+        "period": "Jan 2023 — Mar 2024",
+        "description": "Built and maintained web applications using C# and ASP.NET across two engagements, contributing to both new features and existing codebase improvements."
+      },
+      {
+        "role": "Web Developer",
+        "company": "Baker Tilly",
+        "period": "Jun 2022 — Dec 2022",
+        "description": "Developed web solutions using PHP Symfony for backend logic and Angular for the front-end interface."
       }
     ]
   },
@@ -37,20 +41,20 @@
     "subtitle": "A selection of things I've built.",
     "items": [
       {
-        "title": "Project Alpha",
-        "description": "A real-time collaborative dashboard built with WebSockets and React."
+        "title": "RH-Proo",
+        "description": "An HR management platform with a Svelte frontend and a TypeScript backend, containerized with Docker."
       },
       {
-        "title": "Project Beta",
-        "description": "E-commerce platform with Stripe integration and inventory management."
+        "title": "Season Watch",
+        "description": "An app that allow every citizen to contribute on scientific research on climate change. "
       },
       {
-        "title": "Project Gamma",
-        "description": "CLI tool that scaffolds full-stack apps with opinionated defaults."
+        "title": "Valentine's Surprise",
+        "description": "A playful JavaFX app with animated buttons and dynamic GIFs — a fun interactive way to ask a very important question."
       },
       {
-        "title": "Project Delta",
-        "description": "Open-source component library with Storybook documentation."
+        "title": "RPG Platformer",
+        "description": "A 2D die-and-retry platformer RPG built in Java, featuring leveling, abilities, equipment, and boss fights."
       }
     ]
   },
