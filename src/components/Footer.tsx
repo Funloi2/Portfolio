@@ -1,10 +1,12 @@
 import { useTranslation } from "react-i18next";
 import { socials } from "@/data/portfolio";
-import {  Mail } from "lucide-react";
+import {  Mail, FolderGit2, Link  } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
 
 const links = [
     { icon: Mail, href: `mailto:${socials.email}`, label: "Email" },
+    { icon: FolderGit2, href: `https://github.com/Funloi2`, label: "Github" },
+    { icon: Link, href: `https://www.linkedin.com/in/charles-edouard-marguerite/`, label: "LinkedIn" },
 ];
 
 export default function Footer() {
