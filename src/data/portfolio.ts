@@ -12,7 +12,7 @@ export interface Project {
 export const about = {
     name: "Charles-Edouard Marguerite",
     title: "Software Architect",
-    photo: "/PhotoPortfolio.jpg",
+    photo: "/Portfolio/PhotoPortfolio.jpg",
 };
 
 export const experiencesMeta = [
