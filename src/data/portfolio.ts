@@ -26,18 +26,22 @@ export const experiencesMeta = [
 export const projectsMeta = [
     {
         technologies: ["TypeScript", "Svelte", "Docker"],
+        "image": "/Portfolio/HRProo.png",
         repoUrl: "https://github.com/Funloi2/RH-Proo",
     },
     {
         technologies: ["PHP", "Symfony", "Docker", "CI/CD"],
+        image: "/Portfolio/obs.png",
         repoUrl: "https://github.com/Funloi2/obs-saisons.fr",
     },
     {
         technologies: ["Java", "JavaFX", "Maven"],
+        "image": "/Portfolio/valentine.png",
         repoUrl: "https://github.com/Funloi2/Valentine-project",
     },
     {
         technologies: ["Java"],
+        image: "/Portfolio/rpg.png",
         repoUrl: "https://github.com/Funloi2/RPG_Platformer",
     },
 ];

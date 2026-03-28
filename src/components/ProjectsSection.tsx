@@ -10,7 +10,6 @@ import {
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { ExternalLink } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 
 interface ProjTranslation {
@@ -79,19 +78,6 @@ export default function ProjectsSection() {
                                             <a href={meta.repoUrl} target="_blank" rel="noreferrer">
                                                 {/*<Github className="mr-1.5 h-3.5 w-3.5 sm:h-4 sm:w-4" />*/}
                                                 Code
-                                            </a>
-                                        </Button>
-                                    )}
-                                    {meta?.liveUrl && (
-                                        <Button
-                                            variant="ghost"
-                                            size="sm"
-                                            asChild
-                                            className="text-muted-foreground hover:text-foreground text-xs sm:text-sm"
-                                        >
-                                            <a href={meta.liveUrl} target="_blank" rel="noreferrer">
-                                                <ExternalLink className="mr-1.5 h-3.5 w-3.5 sm:h-4 sm:w-4" />
-                                                Live
                                             </a>
                                         </Button>
                                     )}
