@@ -41,6 +41,10 @@
     "subtitle": "Une sélection de ce que j'ai construit.",
     "items": [
       {
+        "title": "Diskard",
+        "description": "Un RPG de deck building fait en C# unity, développement en cours. Mot de passe: DISKARD123"
+      },
+      {
         "title": "RH-Proo",
         "description": "Une plateforme de gestion RH avec un frontend Svelte et un backend TypeScript, conteneurisée avec Docker."
       },

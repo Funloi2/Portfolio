@@ -41,6 +41,10 @@
     "subtitle": "A selection of things I've built.",
     "items": [
       {
+        "title": "Diskard",
+        "description": "A 2D deck building RPG built using C#, currently in Dev. Password: DISKARD123"
+      },
+      {
         "title": "RH-Proo",
         "description": "An HR management platform with a Svelte frontend and a TypeScript backend, containerized with Docker."
       },

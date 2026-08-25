@@ -25,6 +25,11 @@ export const experiencesMeta = [
 
 export const projectsMeta = [
     {
+        technologies: ["C#", "Unity", "Aseprite"],
+        image: "/Diskard.png",
+        repoUrl: "https://blindcapt.itch.io/diskard",
+    },
+    {
         technologies: ["TypeScript", "Svelte", "Docker"],
         "image": "/HRProo.png",
         repoUrl: "https://github.com/Funloi2/RH-Proo",
