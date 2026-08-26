@@ -36,13 +36,37 @@
       }
     ]
   },
+  "education": {
+    "title": "Formation",
+    "subtitle": "Où j'ai étudié et ce que j'y ai appris.",
+    "items": [
+      {
+        "role": "Architecte de système d'information",
+        "company": "Epitech",
+        "period": "Sep 2023 — Sep 2026",
+        "description": "Spécialisation en IA / Big Data. Diplômé après 3 ans de formation."
+      },
+      {
+        "role": "BTS SIO",
+        "company": "MCCI Business School",
+        "period": "Sep 2021 — Juin 2023",
+        "description": "Diplômé major de promotion. Pendant 2 ans, j'ai suivi un tronc commun en informatique couvrant les algorithmes, les bases de données et la programmation système, ainsi que des cours de management et d'économie."
+      },
+      {
+        "role": "Baccalauréat Scientifique",
+        "company": "Lycée des Mascareignes",
+        "period": "Sep 2018 — Juin 2020",
+        "description": "Filière scientifique axée sur les mathématiques et la physique. Première approche de la programmation via un club d'informatique."
+      }
+    ]
+  },
   "projects": {
     "title": "Projets",
     "subtitle": "Une sélection de ce que j'ai construit.",
     "items": [
       {
         "title": "Diskard",
-        "description": "Un RPG de deck building fait en C# unity, développement en cours. Mot de passe:DISKARD123"
+        "description": "Un RPG de deck building fait en C# avec Unity, développement en cours. Mot de passe : DISKARD123"
       },
       {
         "title": "RH-Proo",
@@ -54,7 +78,7 @@
       },
       {
         "title": "Valentine's Surprise",
-        "description": "Une application très simple qui pose une question très importante"
+        "description": "Une application très simple qui pose une question très importante."
       },
       {
         "title": "RPG Platformer",

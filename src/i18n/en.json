@@ -14,7 +14,7 @@
         "role": "Web Developer",
         "company": "Sudalys Services",
         "period": "Sep 2024 — Present",
-        "description": "Building web applications with PHP Symfony and mobile apps with Flutter. Developed a single sign-on system and managing DevOps workflows and CI/CD pipelines."
+        "description": "Building web applications with PHP Symfony and mobile apps with Flutter. Developed a single sign-on system, and manage DevOps workflows and CI/CD pipelines."
       },
       {
         "role": "Web Developer",
@@ -36,13 +36,37 @@
       }
     ]
   },
+  "education": {
+    "title": "Education",
+    "subtitle": "Where I studied and what I learned.",
+    "items": [
+      {
+        "role": "Information Systems Architect",
+        "company": "Epitech",
+        "period": "Sep 2023 — Sep 2026",
+        "description": "Specialised in AI / Big Data. Graduated after a 3-year program."
+      },
+      {
+        "role": "BTS SIO",
+        "company": "MCCI Business School",
+        "period": "Sep 2021 — Jun 2023",
+        "description": "Graduated top of my class. Over 2 years I followed a core computer science curriculum covering algorithms, databases and systems programming, alongside management and economics courses."
+      },
+      {
+        "role": "Scientific Baccalaureate",
+        "company": "Lycée des Mascareignes",
+        "period": "Sep 2018 — Jun 2020",
+        "description": "Science track with a focus on mathematics and physics. First introduction to programming through a computer club."
+      }
+    ]
+  },
   "projects": {
     "title": "Projects",
     "subtitle": "A selection of things I've built.",
     "items": [
       {
         "title": "Diskard",
-        "description": "A 2D deck building RPG built using C#, currently in Dev. Password:DISKARD123"
+        "description": "A 2D deck-building RPG built in C# with Unity, currently in development. Password: DISKARD123"
       },
       {
         "title": "RH-Proo",
@@ -50,7 +74,7 @@
       },
       {
         "title": "Season Watch",
-        "description": "An app that allow every citizen to contribute on scientific research on climate change. "
+        "description": "An app that lets citizens of all ages contribute to scientific research on climate change."
       },
       {
         "title": "Valentine's Surprise",

@@ -19,8 +19,13 @@ export const experiencesMeta = [
     { technologies: ["PHP", "Symfony", "Flutter", "Docker", "CI/CD"] },
     { technologies: ["PHP", "Symfony", "Docker", "CI/CD"] },
     { technologies: ["C#", "ASP.NET"] },
-    { technologies: ["C#", "ASP.NET"] },
     { technologies: ["PHP", "Symfony", "Angular"] },
+];
+
+export const educationMeta = [
+    { technologies: ["AI", "Big Data"] },
+    { technologies: ["Algorithms", "Databases", "Management"] },
+    { technologies: ["Mathematics", "Physics"] },
 ];
 
 export const projectsMeta = [
