@@ -2,7 +2,7 @@
   "about": {
     "greeting": "Bonjour, je suis",
     "bio": [
-      "Je suis développeur full-stack et architecte logiciel chez <sudalys>Sudalys</sudalys>, où je crée et maintiens des applications web et mobiles, développe des systèmes SSO et gère les pipelines CI/CD.",
+      "Je suis développeur full-stack et architecte logiciel.",
       "Je suis passionné par l'architecture logicielle propre, l'expérience développeur et la transformation de problèmes complexes en solutions élégantes. J'aime aussi apprendre et essayer de nouvelles choses."
     ]
   },

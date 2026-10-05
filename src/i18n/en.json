@@ -2,7 +2,7 @@
   "about": {
     "greeting": "Hello, I'm",
     "bio": [
-      "I'm a full-stack developer and software architect at <sudalys>Sudalys</sudalys>, where I build and maintain web and mobile applications, develop SSO systems, and manage CI/CD pipelines.",
+      "I'm a full-stack developer and software architect",
       "I'm passionate about clean architecture, developer experience, and turning complex problems into elegant solutions. I also love to learn and try new things."
     ]
   },
@@ -13,7 +13,7 @@
       {
         "role": "Web Developer",
         "company": "Sudalys Services",
-        "period": "Sep 2024 — Present",
+        "period": "Sep 2024 — Sep 2026",
         "description": "Building web applications with PHP Symfony and mobile apps with Flutter. Developed a single sign-on system, and manage DevOps workflows and CI/CD pipelines."
       },
       {
